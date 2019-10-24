@@ -1,0 +1,17 @@
+{
+  "name": "http-vs-http2",
+  "version": "1.0.0",
+  "description": "HTTP vs HTTP/2 Performance",
+  "keywords": [
+    "http",
+    "http2"
+  ],
+  "author": {
+    "name": "Sıdıka Çay",
+    "email": "sidikacay@yahoo.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}

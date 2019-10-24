@@ -1,0 +1,21 @@
+body {
+    background: white;
+    text-align: center;
+}
+
+h1 {
+    color: lightpink;
+}
+
+p {
+    color: lightpink;
+}
+
+a {
+    color: lightpink;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
